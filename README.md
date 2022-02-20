@@ -15,8 +15,6 @@ React 라이브러리 도움없이 컴포넌트를 만들어 React의 기본기�
 2. CSS
 3. HTML
 4. OOP
-5. Webpack-Dev-Server
-6.
 
 # 어떤 사람들에게 필요한 프로젝트인가요?
 
