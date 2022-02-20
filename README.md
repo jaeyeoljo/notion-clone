@@ -5,7 +5,7 @@
 TypeScript를 사용하여 OOP기반 아키텍쳐 설계
 
 1. TypeScript, CSS, HTML를 사용하여 구현
-2. Notion 등록 및 드래그 기능 구현
+2. Notion 콘텐츠 등록 및 드래그 기능 구현
 
 # TypeScript + OOP(Object-Oriented Programming)
 
@@ -14,12 +14,9 @@ React 라이브러리 도움없이 컴포넌트를 만들어 React의 기본기�
 1. TypeScript
 2. CSS
 3. HTML
-4. Webpack3
-5. Webpack-Dev-Server
+4. OOP
+5. TEST
 6.
-7.
-8.
-9.
 
 # 어떤 사람들에게 필요한 프로젝트인가요?
 
@@ -29,9 +26,9 @@ React 라이브러리 도움없이 컴포넌트를 만들어 React의 기본기�
 
 1. 등록 기능 구현 (이미지 / 영상 / 글 / 스케쥴 등록이 가능해야한다)
 2. 드래그 기능 구현 (각 섹션별로 드래그해서 끼워넣기가 가능해야한다)
-3. ㅇㅇㅇㅇ 기능 구현
+3. 객체지향 및 주입 구조 구현한다
 4. 디버깅은 Chrome Debugging을 사용을 위해 sourceMap을 설정한다
-5. ㅇㅇㅇㅇ
+5. 기본기능에 충실한다
 
 상기 내용을 모두 충족하면서, 결과적으로 디플로이 환경은 ㅇㅇㅇ이 되고, ㅇㅇㅇ 기반 애플리케이션이 실행되는 환경을 만드는데 초첨을 두었습니다.
 
